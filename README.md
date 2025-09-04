@@ -1,7 +1,7 @@
 # SABALBARO_NEGRO_BSIT4B
 
 Group Members:
-Junrenz S. Sabalbaro,
-Jestephen Negro
+Jestephen Negro,
+Junrenz S. Sabalbaro
 
-Project Description:
+Project Description: FINAL PROJECT - Laravel Starter Kit
